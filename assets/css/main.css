@@ -466,6 +466,8 @@ input, select, textarea {
 				}
 
 		.row.gtr-200 {
+			display: grid;
+			place-items: center;
 			margin-top: -100px;
 			margin-left: -100px;
 		}
@@ -2076,8 +2078,7 @@ input, select, textarea {
 		}
 
 		.image.left {
-			display: grid;
-			place-items: center;
+			display: block;
 			float: center;
 			margin: 0 2em 2em 0;
 			position: relative;
@@ -3358,8 +3359,4 @@ input, select, textarea {
 				text-align: left;
 			}
 
-	}
-	.vendas{
-		display: grid;
-		place-items: center;
 	}
