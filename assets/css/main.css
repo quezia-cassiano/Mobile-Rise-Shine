@@ -2076,8 +2076,9 @@ input, select, textarea {
 		}
 
 		.image.left {
-			display: block;
-			float: left;
+			display: grid;
+			place-items: center;
+			float: center;
 			margin: 0 2em 2em 0;
 			position: relative;
 			top: 0.25em;
@@ -3357,4 +3358,8 @@ input, select, textarea {
 				text-align: left;
 			}
 
+	}
+	.vendas{
+		display: grid;
+		place-items: center;
 	}
