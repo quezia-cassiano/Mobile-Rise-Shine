@@ -10,31 +10,17 @@ self.addEventListener('install', event => {
 
         './index.html',
 
-        './assets/css/main.css',
+        './main.css',
 
-        './assets/js/breakpoint.min.js',
-
-        './assets/js/browser.min.js',
-
-        './assets/js/jquery.dropotron.min.js',
-
-        './assets/js/jquery.min.js',
-
-        './assets/js/main.js',
-
-        './assets/js/util.js',
-
-        './assets/img/29.png',
-        './assets/img/40.png',
-        './assets/img/57.png',
-        './assets/img/60.png',
-        './assets/img/80.png',
-        './assets/img/58.png',
-        './assets/img/87.png',
-        './assets/img/114.png',
-        './assets/img/120.png',
-        './assets/img/180.png',
-        './assets/img/1024.png'
+        '.assets\css\images\bg01.png', 
+        '.assets\css\images\bg02.png',
+        '.assets\css\images\bg03.png',
+        
+        './manifest.json',
+        
+        './https://fonts.googleapis.com',
+        './https://fonts.gstatic.com',
+        './https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap',
       ]))
   );
 });
