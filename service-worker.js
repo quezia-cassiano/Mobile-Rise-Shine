@@ -10,26 +10,33 @@ self.addEventListener('install', event => {
 
         './index.html',
 
-        './assets/css/bootstrap.min.css',
+        './assets/css/fontawesome-all.min.css',
 
-        './assets/js/bootstrap.min.js',
+        './assets/css/main.css',
+
+        './assets/js/breakpoint.min.js',
+
+        './assets/js/browser.min.js',
+
+        './assets/js/jquery.dropotron.min.js',
 
         './assets/js/jquery.min.js',
 
-        './assets/js/popper.min.js',
+        './assets/js/main.js',
 
-        './assets/img/background.png',
-        './assets/img/favicon.png',
-        './assets/img/logo.png',
-        './assets/img/icon_128.png',
-        './assets/img/icon_144.png',
-        './assets/img/icon_152.png',
-        './assets/img/icon_167.png',
-        './assets/img/icon_180.png',
-        './assets/img/icon_192.png',
-        './assets/img/icon_256.png',
-        './assets/img/icon_512.png',
-        './assets/img/formulas.JPG',
+        './assets/js/util.js',
+
+        './assets/img/29.png',
+        './assets/img/40.png',
+        './assets/img/57.png',
+        './assets/img/60.png',
+        './assets/img/80.png',
+        './assets/img/58.png',
+        './assets/img/87.png',
+        './assets/img/114.png',
+        './assets/img/120.png',
+        './assets/img/180.png',
+        './assets/img/1024.png'
       ]))
   );
 });

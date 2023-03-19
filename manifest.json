@@ -1,6 +1,7 @@
 {
-  "name": "PWA Teste",
-  "short_name": "PWA Teste",
+  "name": "Rise & Shine",
+  "short_name": "R&S",
+  "description": "App para loja de floricultura",
   "icons": [
     {
       "src": "assets/img/icon_128.png",
@@ -47,5 +48,6 @@
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#31506F",
-  "theme_color": "#4D5360"
+  "theme_color": "#4D5360",
+  "scope": "/"
 }
