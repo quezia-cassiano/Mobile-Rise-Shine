@@ -10,8 +10,6 @@ self.addEventListener('install', event => {
 
         './index.html',
 
-        './assets/css/fontawesome-all.min.css',
-
         './assets/css/main.css',
 
         './assets/js/breakpoint.min.js',
