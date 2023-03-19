@@ -1,0 +1,30 @@
+{
+  "background_color": "#ffffff",
+  "description": "Floricultura Rise and Shine, página de uma floricultura para atividade de Coding: Mobile.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Rise and Shine",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "r 'n s",
+  "start_url": "/",
+  "theme_color": "#588157",
+  "categories": [
+    "education",
+    "health",
+    "lifestyle",
+    "navigation",
+    "photo",
+    "shopping",
+    "utilities"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "images/butterflies.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "shortcuts": []
+}
