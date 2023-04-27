@@ -1,0 +1,10 @@
+POST http://localhost:3000/api/services
+Content-Type: application/json
+
+{
+    "name": "Begônia",
+    "description": "uma flor",
+    "price": 60, 
+    "image": "https://static.vecteezy.com/system/resources/previews/016/637/444/original/begonia-everblooming-red-flower-png.png"
+
+}
